@@ -1,3 +1,7 @@
+[![Youtube Video](https://img.youtube.com/vi/ualzgEbyCdE/0.jpg)](https://youtu.be/ualzgEbyCdE)
+
+
+
 # CT Keyboard Hack
 
 > Starter kit for the seminar "Creative Technologists - Tracing the City" @ University of Applied Sciences Potsdam (Germany) winter semester 2019/2020 by Fabian Morón Zirfas
